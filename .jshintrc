@@ -1,0 +1,13 @@
+{
+    "node": true,
+    "strict": true,
+    "mocha": true,
+    "predef": ["-Promise"],
+    "browser": false,
+    "esnext": true,
+    "globals": {},
+    "globalstrict": true,
+    "undef": true,
+    "unused": true,
+    "futurehostile": true
+}

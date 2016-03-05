@@ -1,0 +1,3 @@
+Twitter get latest Twitter trends
+Twitter get me latest Twitter trends
+TwitterUpdate get me latest 10 tweets for {keyword}

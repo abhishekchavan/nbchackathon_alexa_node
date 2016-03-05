@@ -1,0 +1,30 @@
+{
+  "intents": [
+    {
+      "intent": "Twitter"
+    },
+    {
+      "intent" : "TwitterUpdate",
+       "slots": [
+        {
+          "name": "keyword",
+          "type": "AMAZON.LITERAL"
+        }]
+    }
+    {
+      "intent": "AMAZON.StartOverIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
